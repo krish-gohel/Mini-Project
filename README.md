@@ -54,21 +54,9 @@ A Bluetooth-enabled robotic car controlled using voice commands via a smartphone
 (![robotcar](https://github.com/user-attachments/assets/71c0fb84-c562-44a1-9839-ebb64efc68e1)
 )
 
-Or describe the wiring:
-- **HC-05**: VCC to 5V, GND to GND, TX to Arduino RX, RX to Arduino TX (via voltage divider)
-- **L298N**:
-  - IN1/IN2 to Arduino pins (e.g., 8/9), IN3/IN4 to 10/11
-  - Motor A & B outputs to DC motors
-  - ENA/ENB enabled via jumper or PWM pins
+
 
 ---
 
-## 💻 Arduino Code Sample
-
-```cpp
-if (command == "forward") {
-  digitalWrite(IN1, HIGH);
-  digitalWrite(IN2, LOW);
-  digitalWrite(IN3, HIGH);
-  digitalWrite(IN4, LOW);
-}
+## 💻 Arduino Code:
+Given in this repository!
