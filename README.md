@@ -49,9 +49,10 @@ A Bluetooth-enabled robotic car controlled using voice commands via a smartphone
 
 ---
 
-## 🖼️ Circuit Diagram
+## 🖼️ Photo:
 
-> Add an image here (recommended)
+(r![robotcar](https://github.com/user-attachments/assets/71c0fb84-c562-44a1-9839-ebb64efc68e1)
+ecommended)
 
 Or describe the wiring:
 - **HC-05**: VCC to 5V, GND to GND, TX to Arduino RX, RX to Arduino TX (via voltage divider)
