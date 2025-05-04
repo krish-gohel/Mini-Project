@@ -51,8 +51,8 @@ A Bluetooth-enabled robotic car controlled using voice commands via a smartphone
 
 ## 🖼️ Photo:
 
-(![robotcar](https://github.com/user-attachments/assets/71c0fb84-c562-44a1-9839-ebb64efc68e1)
-)
+![robotcar](https://github.com/user-attachments/assets/71c0fb84-c562-44a1-9839-ebb64efc68e1)
+
 
 
 
